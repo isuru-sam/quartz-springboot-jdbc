@@ -1,5 +1,7 @@
 #============================================================================
 # Configure Main Scheduler Properties  
+# 
+# https://objectpartners.com/2013/07/09/configuring-quartz-2-with-spring-in-clustered-mode/
 #============================================================================
 
 org.quartz.scheduler.instanceName = MyClusteredScheduler
